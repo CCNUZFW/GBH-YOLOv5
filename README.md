@@ -8,7 +8,7 @@
 5. [Acknowledgements](#Acknowledgements)
 
 ## Project description
-This project is based on the improved and optimized model of YOLOv5s, and its task is to detect defects on the surface of photovoltaic panels. In this study, the YOLOv5 model was improved to achieve 97.8% performance on PV Multi-Defect dataset.
+This project is based on the improved and optimized model of YOLOv5s, and its task is to detect defects on the surface of photovoltaic panels. In this study, the YOLOv5 model was improved to achieve 97.8% performance on PV Multi-Defect dataset. Research work based on this project has been submitted to 'Electronics', and the manuscript is titled "GBH-YOLOv5: Ghost convolution with BottleneckCSP and tiny target prediction Head incorporating YOLOv5 for PV paneldefect detection"
 
 ## Required environment
 
@@ -29,7 +29,7 @@ python detect.py --source ./data/images/ --weights weights/yolov5s.pt
 ## Training
 
 ### Data preparation
-Download PV Multi-Defect images (train, val) and labels. Link: https://github.com/houhou34/PV-Multi-Defect-Datasets.  
+Download PV Multi-Defect images (train, val) and labels. Link: https://github.com/CCNUZFW/PV-Multi-Defect.  
 Download weights. Link: https://pan.baidu.com/s/1ApCScpr1CZ_AeVJH7crgCw Extraction code: lmn8   
 
 ### Start training
@@ -48,3 +48,4 @@ python detect.py --source ./testfiles/img1.jpg --weights runs/train/exp/weights/
 https://github.com/ultralytics/yolov5  
 https://github.com/robintzeng/Pytorch-CSPNet
 
+If you have any question, please feel free to contact us through zfwang@ccnu.edu.cn.
