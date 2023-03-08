@@ -7,6 +7,25 @@
 4. [Testing](#Testing)
 5. [Acknowledgements](#Acknowledgements)
 
+## Citations
+@article{Li2023,
+  title = {GBH-YOLOv5: Ghost Convolution with BottleneckCSP and Tiny Target Prediction Head Incorporating YOLOv5 for PV Panel Defect Detection},
+  shorttitle = {GBH-YOLOv5},
+  author = {Li, Longlong and Wang, Zhifeng and Zhang, Tingting},
+  year = {2023},
+  month = jan,
+  journal = {Electronics},
+  volume = {12},
+  number = {3},
+  pages = {1--15},
+  publisher = {Multidisciplinary Digital Publishing Institute},
+  issn = {2079-9292},
+  doi = {10.3390/electronics12030561},
+  copyright = {http://creativecommons.org/licenses/by/3.0/},
+  langid = {english}
+}
+
+
 ## Project description
 This project is based on the improved and optimized model of YOLOv5s, and its task is to detect defects on the surface of photovoltaic panels. In this study, the YOLOv5 model was improved to achieve 97.8% performance on PV Multi-Defect dataset. Research work based on this project has been submitted to 'Electronics', and the manuscript is titled "GBH-YOLOv5: Ghost convolution with BottleneckCSP and tiny target prediction Head incorporating YOLOv5 for PV paneldefect detection"
 
