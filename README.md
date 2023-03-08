@@ -8,11 +8,11 @@
 5. [Acknowledgements](#Acknowledgements)
 
 ## Citations
-@article{Li2023,
-  title = {GBH-YOLOv5: Ghost Convolution with BottleneckCSP and Tiny Target Prediction Head Incorporating YOLOv5 for PV Panel Defect Detection},
-      shorttitle = {GBH-YOLOv5},
-      author = {Li, Longlong and Wang, Zhifeng and Zhang, Tingting},
-      year = {2023},
+@article{Li2023,<br>
+  title = {GBH-YOLOv5: Ghost Convolution with BottleneckCSP and Tiny Target Prediction Head Incorporating YOLOv5 for PV Panel Defect Detection},<br>
+      shorttitle = {GBH-YOLOv5},<br>
+      author = {Li, Longlong and Wang, Zhifeng and Zhang, Tingting},<br>
+      year = {2023},<br>
       month = jan,
       journal = {Electronics},
       volume = {12},
