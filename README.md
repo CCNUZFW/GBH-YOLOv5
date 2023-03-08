@@ -13,17 +13,16 @@
       shorttitle = {GBH-YOLOv5},<br>
       author = {Li, Longlong and Wang, Zhifeng and Zhang, Tingting},<br>
       year = {2023},<br>
-      month = jan,
-      journal = {Electronics},
-      volume = {12},
-      number = {3},
-      pages = {1--15},
-      publisher = {Multidisciplinary Digital Publishing Institute},
-      issn = {2079-9292},
-      doi = {10.3390/electronics12030561},
-      copyright = {http://creativecommons.org/licenses/by/3.0/},
-      langid = {english}
-      }
+      month = jan,<br>
+      journal = {Electronics},<br>
+      volume = {12},<br>
+      number = {3},<br>
+      pages = {1--15},<br>
+      publisher = {Multidisciplinary Digital Publishing Institute},<br>
+      issn = {2079-9292},<br>
+      doi = {10.3390/electronics12030561},<br>
+      copyright = {http://creativecommons.org/licenses/by/3.0/},<br>
+      }<br>
 
 
 ## Project description
