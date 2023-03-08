@@ -10,20 +10,20 @@
 ## Citations
 @article{Li2023,
   title = {GBH-YOLOv5: Ghost Convolution with BottleneckCSP and Tiny Target Prediction Head Incorporating YOLOv5 for PV Panel Defect Detection},
-  shorttitle = {GBH-YOLOv5},
-  author = {Li, Longlong and Wang, Zhifeng and Zhang, Tingting},
-  year = {2023},
-  month = jan,
-  journal = {Electronics},
-  volume = {12},
-  number = {3},
-  pages = {1--15},
-  publisher = {Multidisciplinary Digital Publishing Institute},
-  issn = {2079-9292},
-  doi = {10.3390/electronics12030561},
-  copyright = {http://creativecommons.org/licenses/by/3.0/},
-  langid = {english}
-}
+      shorttitle = {GBH-YOLOv5},
+      author = {Li, Longlong and Wang, Zhifeng and Zhang, Tingting},
+      year = {2023},
+      month = jan,
+      journal = {Electronics},
+      volume = {12},
+      number = {3},
+      pages = {1--15},
+      publisher = {Multidisciplinary Digital Publishing Institute},
+      issn = {2079-9292},
+      doi = {10.3390/electronics12030561},
+      copyright = {http://creativecommons.org/licenses/by/3.0/},
+      langid = {english}
+      }
 
 
 ## Project description
